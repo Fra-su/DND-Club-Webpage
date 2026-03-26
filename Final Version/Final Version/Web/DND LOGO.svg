@@ -1,0 +1,46 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="187 311 220 220" width="220" height="220">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #8c2222;stroke: #cd2e2e;stroke-miterlimit:10;stroke-width: 4 } 
+		.s1 { fill: none;stroke: #cd2e2e;stroke-miterlimit:10;stroke-width: 4 } 
+		.s2 { fill: none;stroke: #cd2e2e;stroke-miterlimit:10;stroke-width: 2 } 
+		.s3 { opacity: .45;fill: #000000 } 
+		.s4 { opacity: .9;fill: #000000 } 
+		.s5 { fill: #000000;stroke: #000000;stroke-miterlimit:10;stroke-width: 2 } 
+		.t6 { font-size: 24px;fill: #cd2e2e;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path id="Shape 11" fill-rule="evenodd" class="s0" d="m218.92 323.92h156.16c10.49 0 19 8.51 19 19v156.16c0 10.49-8.51 19-19 19h-156.16c-10.49 0-19-8.51-19-19v-156.16c0-10.49 8.51-19 19-19z"/>
+	<path id="Shape 7 copy 3" fill-rule="evenodd" class="s1" d="m296 364.91l1.19-32.07 77.31 43.35"/>
+	<path id="Shape 8 copy 3" fill-rule="evenodd" class="s1" d="m218.81 376.6l77.29-44.7"/>
+	<path id="Shape 7 copy 4" fill-rule="evenodd" class="s1" d="m247.3 447.53l-27.99 16.56"/>
+	<path id="Shape 8 copy 4" fill-rule="evenodd" class="s1" d="m296.19 509.98l-77.11-46.06"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s1" d="m247.93 447.08l48.07-81.51 48.36 84.13"/>
+	<path id="Shape 2 copy" fill-rule="evenodd" class="s1" d="m343.62 449.72l-95.39-2.56z"/>
+	<path id="Shape 3 copy 3" fill-rule="evenodd" class="s1" d="m296.35 365.45l77 10.87-28.46 72.34"/>
+	<path id="Shape 3 copy 4" fill-rule="evenodd" class="s1" d="m343.79 449.5l-48.12 59.45-48.2-61.26"/>
+	<path id="Shape 3 copy 5" fill-rule="evenodd" class="s1" d="m248.03 448.35l-27.78-71.66 76.68-11.33"/>
+	<path id="Shape 7 copy 5" fill-rule="evenodd" class="s1" d="m344.57 449.26l27.05 17.26-76.46 43.47"/>
+	<path id="Shape 8 copy 5" fill-rule="evenodd" class="s2" d="m369.35 211.35"/>
+	<path id="Shape 10" fill-rule="evenodd" class="s3" d="m227.71 382.02l0.38 76.37 68.15 39.6 67.24-37.54 0.65-79.85-67.38-39.21z"/>
+	<path id="Shape 10 copy" fill-rule="evenodd" class="s4" d="m265.53 402.91l0.17 34.02 30.36 17.64 29.96-16.72 0.28-35.57-30.01-17.47z"/>
+	<path id="Shape 7 copy" fill-rule="evenodd" class="s1" d="m248.55 392.48l-28.55-15.58"/>
+	<path id="Shape 8 copy" fill-rule="evenodd" class="s1" d="m219.55 464.76l0.06-89.24"/>
+	<path id="Shape 7 copy 2" fill-rule="evenodd" class="s1" d="m295.76 475.96l0.34 32.53"/>
+	<path id="Shape 8 copy 2" fill-rule="evenodd" class="s1" d="m373.1 465.32l-76.23 43.12"/>
+	<g id="Layer 1">
+		<path id="Shape 1" fill-rule="evenodd" class="s1" d="m295.68 475.19l-46.56-82.39 97.04 0.2"/>
+		<path id="Shape 2" fill-rule="evenodd" class="s1" d="m345.81 393.65l-49.92 81.33z"/>
+		<path id="Shape 3" fill-rule="evenodd" class="s1" d="m249.19 392.45l46.43-59.79 49.91 59.36"/>
+		<path id="Shape 3 copy" fill-rule="evenodd" class="s1" d="m345.7 393.39l27.44 71.7-77.16 10.81"/>
+		<path id="Shape 3 copy 2" fill-rule="evenodd" class="s1" d="m296.83 475.75l-76.78-11.97 29.35-71.88"/>
+		<path id="Shape 7" fill-rule="evenodd" class="s1" d="m345.88 392.59l28.09-14.57-0.2 87.73"/>
+		<path id="Shape 8" fill-rule="evenodd" class="s2" d=""/>
+		<path id="Shape 9" fill-rule="evenodd" class="s5" d="m383.7 122.1"/>
+		<text id="" transform="translate(342.5,491.6)">
+		</text>
+		<text id="D&amp;D" style="transform: matrix(.938,0,0,.938,271,427.004)">
+			<tspan x="0" y="0" class="t6">D</tspan><tspan  y="0" class="t6">&amp;</tspan><tspan  y="0" class="t6">D
+</tspan>
+		</text>
+	</g>
+</svg>

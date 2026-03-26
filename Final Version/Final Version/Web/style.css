@@ -1,0 +1,43 @@
+
+h1 {
+    text-align: center;
+    color:darkred;
+    font-size: 60px;
+}
+h2 {
+    font-size: 30px;
+    color: darkred;
+}
+div {
+    font-size:30px;
+    color:darkred;
+}
+body {
+    background-color: rgb(255, 204, 204)
+}
+.title-align {
+  background-color: black;
+  vertical-align: middle;
+  color: red;
+  font-size:150px;
+}
+.container {
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.text-content {
+    width: 65%;
+    margin-right: 20px; 
+    text-align:justify;
+}
+p {
+    margin-left: 40px;
+    font-size:35px;
+    color:darkred;
+}
+img {
+    margin-right:40px;
+}
